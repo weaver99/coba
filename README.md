@@ -1,3 +1,2 @@
-# course
-Course
-NC
+# Test
+Test
